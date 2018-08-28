@@ -1,0 +1,16 @@
+.bg-img {
+    background-image: url(/Bootstrap-Portfolio/assets/images/qbkls.png)
+}
+body { 
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.bg-cont {
+    background-color: #fff;
+}
+.footer {
+    font-size:12px;
+}
+.margin-footer {
+    margin-bottom: 26px;
+}
