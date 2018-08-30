@@ -14,3 +14,21 @@ body {
 .margin-footer {
     margin-bottom: 26px;
 }
+
+#photo-size {
+    width: 200px;
+    height: 200px;
+}
+.photo-wrapper {
+    position: relative;
+    width: 200px;
+margin: 0 auto;
+}
+.text-block {
+    width: 200px;
+    position: absolute;
+    bottom: 8px;
+    text-align: center;
+    
+    
+}
